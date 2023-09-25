@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221612422538",
+    "project_id": "jobless-staging",
+    "storage_bucket": "jobless-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221612422538:android:04979ecd56c21b2fa90473",
+        "android_client_info": {
+          "package_name": "com.example.jobless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221612422538-01odar504fei2kfnk6iv342ofdoiskt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcHuigLUgzpgubuqXOJNvpGq1Hfp6i80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221612422538-01odar504fei2kfnk6iv342ofdoiskt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

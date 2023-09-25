@@ -1,0 +1,203 @@
+{
+    "locale": "en",
+    "slogan jobless": "The best portal job in country",
+    "next": "Next",
+    "save": "Save",
+    "title": "Title",
+    "back": "Back",
+    "all": "All",
+    "date": "Date",
+    "time": "Time",
+    "title is required": "Title is required",
+    "welcome to" : "Welcome to",
+    "login to continue": "Login to Continue",
+    "welcome-intro": "Explore the latest news and events happening in the world in minutes. Subscribe and get notified of all of our articles & share them with your friends..",
+    "skip": "Skip",
+    "settings": "Settings",
+    
+    "employees": "employees",
+
+    "about us": "About us",
+
+    "page error": "Error, Please try again",
+    "page not found": "Page not found",
+
+    "don't have an account?" : "Don't have an account? ",
+    "create" : "Create",
+    "create account" : "Create Account",
+    "forgot your password": "Forgot your password?",
+    "send": "Submit",
+    "forgot password": "Forgot the password?",
+    "or continue with": "or continue with",
+    "login" : "Login",
+    "login to access all features" : "Login to access all features",
+    "follow the simple steps": "Follow the simple steps",
+    "already have an account?": "Already have an account? ",
+
+    "email is required": "Email is required",
+    "enter a valid email address": "Enter a valid email address",
+    "password is required": "Password is required",
+    "password must be at least 6 digits long": "Password must be at least 6 digits long",
+
+    "description": "Description",
+
+    "what are you looking for": "What are you looking for",
+    "i want a job" : "I want a job",
+    "what want a job" : "What job you want",
+    "profile": "Profile",
+    "organization profile" : "Organization profile",
+    "i want an employee": "I want an employee",
+
+    "choose jobs" : "Choose 3-5 job categories and we'll optimize the job vacancy for you",
+    "empty categories": "Categories job empty",
+    "categories": "Categories",
+    "choose confirm": "Limited 5 selected job categories",
+    "no more data": "No more data",
+
+    "type vacancy": "Type",
+
+    "upload photo profile": "Upload photo profile",
+    "upload company logo": "Upload company logo",
+
+    "fullname": "Full name",
+    "dateofbirth": "Date of birth",
+    "address": "Address",
+    "skill": "Skill",
+    "gender": "Geender",
+    "fullname is required": "Full name is required",
+    "dateofbirth is required": "Date of birth is required",
+    "address is required": "Address is required",
+    "skill is required": "Skill is required",
+
+    "companyname": "Name of company",
+    "companyname is required": "Name of company is required",
+    "companyemail": "Company email",
+    "companyemail is required": "Company email is required",
+    "industrialtype": "Industrial Type",
+    "industrialtype is required": "Industrial type is required",
+    "officelocation": "Location",
+    "officelocation is required": "Location is required",
+    "companyaddress": "Company address",
+    "companyaddress is required" : "Company address is required",
+    "company size":"Company Size",
+    "company size is required": "Company size is required",
+    "website":"Website",
+
+
+    "confirm": "Confirm",
+
+    "open position": "Open Position",
+    "open position is required": "Open position is required",
+    "salary": "Salary",
+    "salary is required": "Salary is required",
+    "salary only number": "Salary only number",
+    "location":"Location",
+    "location is required":"Location is required",
+    "type job":"Type",
+    "type job is required":"Type is required",
+
+    "minimum age 15 years": "Minimum age 15 years",
+
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "cancel": "Cancel",
+    "gallery required": "Only photos can be selected",
+
+    "add photo": "Add photo",
+    "deleted": "Delete",
+    "deleted desc": "Are you sure delete this data?.",
+
+    "search": "Position, location or keywords",
+    "search vacancies": "Search",
+    "job search": "Search jobs",
+    "no results found" : "No results found",
+    "initial job search" : "Please search for the jobs",
+    "desc": "Description",
+    "requirements": "Requirements",
+
+    "search filter": "Search filter",
+    "field of work": "Field of work",
+
+    "see all": "See all",
+    "tips for you": "Tips for you",
+    "recommendations": "Job Recommendations",
+
+    "upload resume":"Upload Resume/CV",
+    "upload resume desc" :"Upload your Resume or CV to apply for the job vacancy",
+
+    "my vacancies": "My Vacancies",
+    "create vacancy now": "Create vacancy now",
+    "create vacancy": "Create vacancy",
+    "recent people applied": "Recent People Applied",
+
+    "all vacancies": "All Vacancies",
+    "active":"Active",
+    "inactive":"Inactive",
+    "create a job vacancy": "Create a job vacancy for you company and start find new hight quality employee",
+
+    "apply now" :"Apply Now",
+    "notifications" : "Notifications",
+    "dark mode" : "Dark Mode",
+    "light mode" : "Light Mode",
+    "languages" : "Languages",
+    "helps": "Helps",
+    "logout": "Logout",
+    "logout desc": "Are you sure logout this application?.",
+    
+    "yes": "Yes",
+    "no": "No",
+
+    "prev": "Prev",
+    "post job vacancy": "Post Job Vacancy",
+
+    "interview timetable":"Interview Timetable",
+    "interview timetable list" : "List of Interview Schedule for applicants",
+
+    "add new requirements": "Add new requirements",
+    "requirement in required":"Requirement in required",
+    "go to application": "Go to Application",
+    "post another vacancy": "Post another vacancy",
+    "try again": "Try again",
+    "back to home": "Back to home",
+    "oops failed to post": "Oops, Failed to post",
+    "job vacancy posted": "Job vacancy posted!",
+    "job vacancy posted desc": "Now you can see  all the applier CV/Resume and invite them to the next step",
+    "job vacancy failed desc": "Please make sure that your internet connection in active and stable,  then press \"Try Again\"",
+    "not mentioned": "Not mentioned",
+
+    "applying for": "Applying to ",
+    "see resume": "See resume",
+    "see details": "See details",
+    "applicants": "Applicants",
+    "pending":"Pending",
+    "rejected":"Rejected",
+    "accepted": "Accepted",
+    "interview": "Schedule to interview",
+    "scheduled to interview": "Scheduled to interview",
+    "mark status as": "Mark status as",
+    "mark status as not selected": "The status of the applicant has not been selected",
+    "the interview schedule is too soon":"The interview schedule is too soon",
+    "message":"Message",
+    "send to applicants":"Send to Applicants",
+
+    "successful":"Successful!",
+    "successfull desc":"Notifications have been sent to applicants",
+    "successfull applicant desc":"Notification has been sent to employers",
+
+    "oops, failed": "Oops, Failed",
+    "oop, failed desc": "Please make sure that your internet connection in active and stable,  then press \"Try Again\"",
+
+    "discover another job": "Discover another job",
+    "waiting for review": "Waiting for review",
+    "join interview": "Join interview",
+    "send message to recruiter now": "Send message to recruiter",
+
+    "clear": "Clear",
+    "apply filter": "Apply filter",
+
+    "notification": "Notifications",
+    "tell us about yourself briefly": "Tell us about yourself briefly",
+    "vacancy inactive":"Vacancy inactive"
+
+    
+}
